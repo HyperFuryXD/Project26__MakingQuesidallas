@@ -1,1 +1,4 @@
-# Project26__MakingQuesidallas
+What are Quesidallas?
+A quesadilla  is a Mexican dish and type of taco, consisting of a tortilla that is filled primarily with cheese, and sometimes meats, beans, and spices, and then cooked on a griddle. Traditionally, a corn tortilla is used, but it can also be made with a flour tortilla, particularly in northern Mexico and the United States.
+
+A full quesadilla is made with two tortillas that hold a layer of cheese between them. A half is a single tortilla that has been filled with cheese and folded into a half-moon shape.      A quick version of the quesadilla, the cheese tortilla, is microwaved and often served to children.
